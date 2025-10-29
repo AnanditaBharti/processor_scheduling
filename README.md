@@ -1,0 +1,1 @@
+A program in C language simulating CPU scheduling policies (FCFS and Round Robin). The output includes Gantt charts and averages for waiting, turnaround, and response times, providing a clear educational tool for algorithm exploration.
